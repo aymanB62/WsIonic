@@ -1,0 +1,7 @@
+{
+  "name": "IconPosition",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
